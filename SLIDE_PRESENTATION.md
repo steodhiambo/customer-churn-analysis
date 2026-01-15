@@ -1,6 +1,6 @@
-# 📊 CUSTOMER CHURN PRESENTATION - 5 SLIDES
+#  CUSTOMER CHURN PRESENTATION - 5 SLIDES
 
-## 🎯 PRESENTATION STRUCTURE (Problem → Insight → Solution)
+##  PRESENTATION STRUCTURE (Problem → Insight → Solution)
 
 **Duration:** 5 minutes
 **Audience:** Operations Director
@@ -179,7 +179,7 @@ is 450%. This program pays for itself in just 3 months."
 
 ---
 
-## 📋 APPENDIX SLIDE (Optional)
+##  APPENDIX SLIDE (Optional)
 
 ### Title: "Dashboard & Next Steps"
 
@@ -201,7 +201,7 @@ is 450%. This program pays for itself in just 3 months."
 
 ---
 
-## 🎨 DESIGN SPECIFICATIONS
+##  DESIGN SPECIFICATIONS
 
 ### Color Scheme:
 - **Red (#DC3545):** Problems, urgent items
@@ -223,7 +223,7 @@ is 450%. This program pays for itself in just 3 months."
 
 ---
 
-## 📝 SLIDE-BY-SLIDE CONTENT
+## SLIDE-BY-SLIDE CONTENT
 
 ### SLIDE 1: THE PROBLEM
 ```
@@ -311,7 +311,7 @@ Visual: Simple before/after comparison
 
 ---
 
-## 🎯 PRESENTATION FLOW (5 Minutes)
+##  PRESENTATION FLOW (5 Minutes)
 
 **0:00-1:00** - Slide 1: Problem
 - Hook with $2.2M number
@@ -335,7 +335,7 @@ Visual: Simple before/after comparison
 
 ---
 
-## 💡 PRESENTATION TIPS
+##  PRESENTATION TIPS
 
 ### Opening (30 seconds):
 "Thank you for your time. I'm here to discuss a critical issue: we're 
@@ -355,7 +355,7 @@ requesting approval to launch the retention program this week. Questions?"
 
 ---
 
-## 📊 POWERPOINT TEMPLATE
+##  POWERPOINT TEMPLATE
 
 ### Slide Master Settings:
 - **Size:** 16:9 (Widescreen)
@@ -371,7 +371,7 @@ requesting approval to launch the retention program this week. Questions?"
 
 ---
 
-## ✅ PRE-PRESENTATION CHECKLIST
+##  PRE-PRESENTATION CHECKLIST
 
 - [ ] All numbers are current and accurate
 - [ ] Charts are clear and readable
@@ -386,7 +386,7 @@ requesting approval to launch the retention program this week. Questions?"
 
 ---
 
-## 🎯 KEY MESSAGES (Memorize These)
+## KEY MESSAGES (Memorize These)
 
 1. **Problem:** "$2.2M at risk from 26.5% churn"
 2. **Cause:** "Contract type drives 40% of churn"
